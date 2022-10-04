@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Leonardo-Ferreira-costa/Leonardo-Ferreira-costa/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **Leonardo-Ferreira-costa/Leonardo-Ferreira-costa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
