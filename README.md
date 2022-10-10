@@ -1,8 +1,5 @@
 ### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-ferreira-costa&layout=compact)](https://github.com/leonardo-ferreira-costa/github-readme-stats)
-![snake gif](https://github.com/Leonardo-Ferreira-costa/Leonardo-Ferreira-costa/blob/output/Platane/snk/output/github-contribution-grid-snake.svg)
-
-
 <!--
 **Leonardo-Ferreira-costa/Leonardo-Ferreira-costa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
