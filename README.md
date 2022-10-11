@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-ferreira-costa&layout=compact)](https://github.com/leonardo-ferreira-costa/github-readme-stats)
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation]
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 <!--
 **Leonardo-Ferreira-costa/Leonardo-Ferreira-costa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
