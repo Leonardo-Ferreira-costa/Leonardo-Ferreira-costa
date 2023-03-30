@@ -12,6 +12,7 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Leonardo-Ferreira-costa/Leonardo-Ferreira-costa/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Leonardo-Ferreira-costa/Leonardo-Ferreira-costa/output/github-contribution-grid-snake.svg#gh-light-mode-only)
  </div>
 
+ ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=leonardo-ferreira-costa)
 
 
 <!--
