@@ -2,7 +2,6 @@
  <div align="center">
  Sou um desenvolvedor apaixonado por tecnologia!
 
-## 📊 Minhas Linguagens Mais Usadas
 
 ![Languages Badge](https://raw.githubusercontent.com/Leonardo-Ferreira-costa/auto-lang-badge-profile/main/assets/languages-badge.svg)
 </div>
