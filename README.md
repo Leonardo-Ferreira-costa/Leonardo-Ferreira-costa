@@ -5,9 +5,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Ferreira-costa&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
   <div align="center">
-<!-- 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-ferreira-costa&layout=compact)](https://github.com/leonardo-ferreira-costa/github-readme-stats)
--->
+
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Leonardo-Ferreira-costa/Leonardo-Ferreira-costa/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Leonardo-Ferreira-costa/Leonardo-Ferreira-costa/output/github-contribution-grid-snake.svg#gh-light-mode-only)
  </div>
