@@ -1,6 +1,10 @@
 ### Hi there, talk to me. 👋 😄
  <div align="center">
- 
+ Sou um desenvolvedor apaixonado por tecnologia!
+
+## 📊 Minhas Linguagens Mais Usadas
+
+![Languages Badge](assets/languages-badge.svg)
 </div>
   <div align="center">
 
